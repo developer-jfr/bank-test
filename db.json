@@ -1,0 +1,29 @@
+{
+  "bank": [
+    {
+      "id": "0.7569629514261016",
+      "amount": 0,
+      "bankName": "react"
+    },
+    {
+      "id": "0.13073156829801902",
+      "amount": 0,
+      "bankName": "cool"
+    },
+    {
+      "id": "0.002380683789505289",
+      "amount": 0,
+      "bankName": "react"
+    },
+    {
+      "id": "0.08158243318388414",
+      "amount": 0,
+      "bankName": "cool"
+    },
+    {
+      "id": "0.17317584263476982",
+      "amount": 0,
+      "bankName": "cool"
+    }
+  ]
+}
